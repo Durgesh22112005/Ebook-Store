@@ -1,0 +1,39 @@
+.catalog {
+    padding: 20px;
+    background-color: white;
+    
+  }
+  
+  .catalog-filters {
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  
+  .ebook-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    
+  }
+  
+  .ebook-item {
+    background-color: rgb(180, 218, 228);
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .ebook-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .ebook-details {
+    text-align: left;
+  }
+  

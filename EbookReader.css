@@ -1,0 +1,19 @@
+.ebookreader {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .reader-image {
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .ebook-content {
+    margin-top: 20px;
+    background-color: #f8f8f8;
+    padding: 20px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
